@@ -1,0 +1,1922 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+      },
+      {
+        "title": "Laws of motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital city of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "What country is the Eiffel Tower located in?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital and most populous city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "What language is primarily spoken in the country where the Great Barrier Reef is located?",
+    "gold_answer": "English",
+    "context": [
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is located off the coast of Queensland, Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "The official language of Australia is English."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "hard",
+    "question": "What currency is used in the country where Machu Picchu is located?",
+    "gold_answer": "sol",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is an Incan citadel in the Andes Mountains of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The currency of Peru is the sol."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "easy",
+    "question": "What is the capital city of Japan?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "Japan is an island country in East Asia."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital of Japan."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "medium",
+    "question": "What river is the Statue of Liberty near?",
+    "gold_answer": "Hudson River",
+    "context": [
+      {
+        "title": "Statue of Liberty",
+        "text": "The Statue of Liberty is located on Liberty Island in New York Harbor."
+      },
+      {
+        "title": "New York Harbor",
+        "text": "New York Harbor is at the mouth of the Hudson River."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "hard",
+    "question": "What is the dominant religion in the country where Angkor Wat is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is a temple complex in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Buddhism is the state religion of Cambodia."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "Who wrote Romeo and Juliet?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "Romeo and Juliet",
+        "text": "Romeo and Juliet is a tragedy written by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright and poet."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "What ocean does the Amazon River empty into?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River flows through Brazil and empties into the Atlantic Ocean."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is the largest country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "hard",
+    "question": "What is the capital of the country that invented paper money?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Paper money",
+        "text": "Paper money was first used in China during the Tang Dynasty."
+      },
+      {
+        "title": "China",
+        "text": "The capital of China is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "easy",
+    "question": "What continent is Egypt located on?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country in North Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the world's second-largest continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "medium",
+    "question": "What sport originated in the country where the Taj Mahal is located?",
+    "gold_answer": "cricket",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is located in Agra, India."
+      },
+      {
+        "title": "India",
+        "text": "Cricket is the most popular sport in India."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "hard",
+    "question": "What is the official language of the country where the Colosseum is located?",
+    "gold_answer": "Italian",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is an amphitheater in Rome, Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "The official language of Italy is Italian."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "easy",
+    "question": "What animal is Australia famous for?",
+    "gold_answer": "kangaroo",
+    "context": [
+      {
+        "title": "Australia",
+        "text": "Australia is known for its unique wildlife, including kangaroos."
+      },
+      {
+        "title": "Kangaroo",
+        "text": "Kangaroos are marsupials native to Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "medium",
+    "question": "What is the tallest building in the country where the pyramids of Giza are located?",
+    "gold_answer": "Grand Egyptian Museum",
+    "context": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "The pyramids of Giza are located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "The Grand Egyptian Museum near the pyramids is one of the tallest structures in Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "hard",
+    "question": "Which element was discovered by the scientist who also discovered radium?",
+    "gold_answer": "polonium",
+    "context": [
+      {
+        "title": "Radium",
+        "text": "Radium was discovered by Marie Curie and Pierre Curie."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie also discovered the element polonium."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "The solar system contains eight planets."
+      },
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is the largest planet in the solar system."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "medium",
+    "question": "What language do most people in Argentina speak?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "Argentina is a country in South America."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is the official and most spoken language in Argentina."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Sahara Desert is partially located?",
+    "gold_answer": "dirham",
+    "context": [
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara Desert covers parts of several countries including Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "The currency of Morocco is the Moroccan dirham."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "easy",
+    "question": "What is the capital of Australia?",
+    "gold_answer": "Canberra",
+    "context": [
+      {
+        "title": "Australia",
+        "text": "Australia is a continent and country in the Southern Hemisphere."
+      },
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital city of Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "medium",
+    "question": "What river flows through the city where the Sphinx is located?",
+    "gold_answer": "Nile",
+    "context": [
+      {
+        "title": "Great Sphinx",
+        "text": "The Great Sphinx is located near Giza, Egypt."
+      },
+      {
+        "title": "Nile",
+        "text": "The Nile River flows through Egypt and past the Giza plateau."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "hard",
+    "question": "What is the primary language of the country where the Inca Empire was centered?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Inca Empire",
+        "text": "The Inca Empire was centered in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The primary language of Peru is Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "easy",
+    "question": "What color is the British flag commonly known as?",
+    "gold_answer": "Union Jack",
+    "context": [
+      {
+        "title": "British flag",
+        "text": "The flag of the United Kingdom is called the Union Jack."
+      },
+      {
+        "title": "United Kingdom",
+        "text": "The United Kingdom is a country in Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "medium",
+    "question": "What sport is played at Wimbledon, which is located in which city?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Wimbledon",
+        "text": "Wimbledon is a tennis tournament held in London."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "hard",
+    "question": "What ocean is the deepest point located in?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Mariana Trench",
+        "text": "The Mariana Trench is the deepest point in the world's oceans."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Mariana Trench is located in the western Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "easy",
+    "question": "What is the largest desert in the world?",
+    "gold_answer": "Sahara",
+    "context": [
+      {
+        "title": "Desert",
+        "text": "The Sahara is the largest hot desert in the world."
+      },
+      {
+        "title": "Sahara",
+        "text": "The Sahara Desert covers much of North Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "What currency does the country with the most islands use?",
+    "gold_answer": "krona",
+    "context": [
+      {
+        "title": "Sweden",
+        "text": "Sweden is a Scandinavian country with over 100,000 islands, making it the country with the most islands."
+      },
+      {
+        "title": "Sweden",
+        "text": "The currency of Sweden is the Swedish krona."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "hard",
+    "question": "What type of government does the country where democracy originated have today?",
+    "gold_answer": "parliamentary republic",
+    "context": [
+      {
+        "title": "Democracy",
+        "text": "Democracy originated in ancient Athens, Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece today is a parliamentary republic."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "easy",
+    "question": "What is the capital of Canada?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {
+        "title": "Canada",
+        "text": "Canada is a country in North America."
+      },
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Leaning Tower of Pisa is located?",
+    "gold_answer": "Italian",
+    "context": [
+      {
+        "title": "Leaning Tower of Pisa",
+        "text": "The Leaning Tower of Pisa is in Pisa, Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italian is the official language of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where Borobudur temple is located?",
+    "gold_answer": "Islam",
+    "context": [
+      {
+        "title": "Borobudur",
+        "text": "Borobudur is a Buddhist temple in Indonesia."
+      },
+      {
+        "title": "Indonesia",
+        "text": "Islam is the primary religion of Indonesia."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "easy",
+    "question": "What is the largest ocean on Earth?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean is the largest and deepest ocean on Earth."
+      },
+      {
+        "title": "Earth",
+        "text": "Earth's surface is about 71% water."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the composer Beethoven was born?",
+    "gold_answer": "Vienna",
+    "context": [
+      {
+        "title": "Beethoven",
+        "text": "Ludwig van Beethoven was born in Bonn, Germany, but spent most of his career in Vienna, Austria."
+      },
+      {
+        "title": "Austria",
+        "text": "The capital of Austria is Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "hard",
+    "question": "What element is named after the city where Marie Curie conducted her research?",
+    "gold_answer": "polonium",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie named the element polonium after her native Poland."
+      },
+      {
+        "title": "Poland",
+        "text": "Poland is a country in Central Europe, with Warsaw as its capital."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Italy",
+        "text": "Italy is a country in Southern Europe."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "What language is primarily spoken in the country where the Amazon rainforest is mostly located?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Amazon rainforest",
+        "text": "The Amazon rainforest is mostly located in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "The primary language of Brazil is Portuguese."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the ancient city of Babylon was located?",
+    "gold_answer": "dinar",
+    "context": [
+      {
+        "title": "Babylon",
+        "text": "The ancient city of Babylon was located in modern-day Iraq."
+      },
+      {
+        "title": "Iraq",
+        "text": "The currency of Iraq is the Iraqi dinar."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "easy",
+    "question": "What is the largest animal on Earth?",
+    "gold_answer": "blue whale",
+    "context": [
+      {
+        "title": "Blue whale",
+        "text": "The blue whale is the largest animal known to have ever existed."
+      },
+      {
+        "title": "Animal",
+        "text": "Animals are multicellular eukaryotic organisms."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "medium",
+    "question": "What ocean borders the country where the Sahara Desert is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara Desert is in North Africa, bordering countries like Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco borders the Atlantic Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the ancient city of Troy was located?",
+    "gold_answer": "Ankara",
+    "context": [
+      {
+        "title": "Troy",
+        "text": "The ancient city of Troy was located in modern-day Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "The capital of Turkey is Ankara."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "easy",
+    "question": "What is the tallest mountain in the world?",
+    "gold_answer": "Mount Everest",
+    "context": [
+      {
+        "title": "Mount Everest",
+        "text": "Mount Everest is the tallest mountain in the world at 8,849 meters."
+      },
+      {
+        "title": "Himalayas",
+        "text": "Mount Everest is part of the Himalayan mountain range."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "What is the main religion of the country where the Shwedagon Pagoda is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Shwedagon Pagoda",
+        "text": "The Shwedagon Pagoda is a Buddhist temple in Yangon, Myanmar."
+      },
+      {
+        "title": "Myanmar",
+        "text": "Buddhism is the main religion in Myanmar."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "hard",
+    "question": "What language family does the language of the country where Petra is located belong to?",
+    "gold_answer": "Semitic",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an ancient city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "The official language of Jordan is Arabic, which belongs to the Semitic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "easy",
+    "question": "What is the largest country in the world by area?",
+    "gold_answer": "Russia",
+    "context": [
+      {
+        "title": "Russia",
+        "text": "Russia is the largest country in the world by land area."
+      },
+      {
+        "title": "World",
+        "text": "The world has 195 recognized countries."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "What river is the city of Cairo located on?",
+    "gold_answer": "Nile",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Cairo is located on the banks of the Nile River."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Acropolis is located?",
+    "gold_answer": "euro",
+    "context": [
+      {
+        "title": "Acropolis",
+        "text": "The Acropolis is an ancient citadel in Athens, Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "The currency of Greece is the euro."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "easy",
+    "question": "What is the smallest country in the world?",
+    "gold_answer": "Vatican City",
+    "context": [
+      {
+        "title": "Vatican City",
+        "text": "Vatican City is the smallest country in the world by area."
+      },
+      {
+        "title": "Italy",
+        "text": "Vatican City is an independent city-state enclaved within Rome, Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "What sport originated in the country where tea was first cultivated?",
+    "gold_answer": "cricket",
+    "context": [
+      {
+        "title": "Tea",
+        "text": "Tea was first cultivated in China."
+      },
+      {
+        "title": "China",
+        "text": "Badminton and table tennis are popular in China, but cricket originated in England where tea drinking became popular."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Dead Sea is partially located?",
+    "gold_answer": "Jerusalem",
+    "context": [
+      {
+        "title": "Dead Sea",
+        "text": "The Dead Sea borders Israel, Jordan, and the West Bank."
+      },
+      {
+        "title": "Israel",
+        "text": "The capital of Israel is Jerusalem."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal?",
+    "gold_answer": "cheetah",
+    "context": [
+      {
+        "title": "Cheetah",
+        "text": "The cheetah is the fastest land animal, reaching speeds of 70 mph."
+      },
+      {
+        "title": "Africa",
+        "text": "Cheetahs are primarily found in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Parthenon is located?",
+    "gold_answer": "Greek",
+    "context": [
+      {
+        "title": "Parthenon",
+        "text": "The Parthenon is a temple on the Acropolis in Athens, Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "The official language of Greece is Greek."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "hard",
+    "question": "What is the primary export of the country where the Panama Canal is located?",
+    "gold_answer": "bananas",
+    "context": [
+      {
+        "title": "Panama Canal",
+        "text": "The Panama Canal is located in Panama."
+      },
+      {
+        "title": "Panama",
+        "text": "Bananas are one of the primary exports of Panama."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "gold_answer": "Berlin",
+    "context": [
+      {
+        "title": "Germany",
+        "text": "Germany is a country in Central Europe."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is the capital of Germany."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "medium",
+    "question": "What is the official language of the country where the Chichen Itza pyramid is located?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "Chichen Itza is an ancient Maya city in Mexico."
+      },
+      {
+        "title": "Mexico",
+        "text": "The official language of Mexico is Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "hard",
+    "question": "What is the dominant religion in the country where Angkor Wat is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is a Hindu-Buddhist temple complex in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Theravada Buddhism is the state religion of Cambodia."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "easy",
+    "question": "What is the capital of South Korea?",
+    "gold_answer": "Seoul",
+    "context": [
+      {
+        "title": "South Korea",
+        "text": "South Korea is a country in East Asia."
+      },
+      {
+        "title": "Seoul",
+        "text": "Seoul is the capital of South Korea."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "What ocean does the Nile River flow into?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile River flows northward through Africa."
+      },
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Nile River empties into the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Great Wall is located?",
+    "gold_answer": "yuan",
+    "context": [
+      {
+        "title": "Great Wall",
+        "text": "The Great Wall of China is located in China."
+      },
+      {
+        "title": "China",
+        "text": "The currency of China is the renminbi, with the yuan as its basic unit."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "easy",
+    "question": "What is the largest country in Africa by area?",
+    "gold_answer": "Algeria",
+    "context": [
+      {
+        "title": "Algeria",
+        "text": "Algeria is the largest country in Africa by land area."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa has 54 recognized countries."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "What is the main religion of the country where the Golden Temple is located?",
+    "gold_answer": "Sikhism",
+    "context": [
+      {
+        "title": "Golden Temple",
+        "text": "The Golden Temple is a Sikh gurdwara in Amritsar, India."
+      },
+      {
+        "title": "India",
+        "text": "Sikhism is predominantly practiced in the Punjab region of India."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Moai statues are located?",
+    "gold_answer": "Santiago",
+    "context": [
+      {
+        "title": "Moai",
+        "text": "The Moai statues are on Easter Island, Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "The capital of Chile is Santiago."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "easy",
+    "question": "What is the deepest lake in the world?",
+    "gold_answer": "Lake Baikal",
+    "context": [
+      {
+        "title": "Lake Baikal",
+        "text": "Lake Baikal in Russia is the deepest lake in the world."
+      },
+      {
+        "title": "Russia",
+        "text": "Russia is the largest country in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Alhambra palace is located?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Alhambra",
+        "text": "The Alhambra is a palace in Granada, Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "The official language of Spain is Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where the Temple of the Emerald Buddha is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Emerald Buddha",
+        "text": "The Temple of the Emerald Buddha is in Bangkok, Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Buddhism is the primary religion of Thailand."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "What is the capital of Spain?",
+    "gold_answer": "Madrid",
+    "context": [
+      {
+        "title": "Spain",
+        "text": "Spain is a country in southwestern Europe."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "medium",
+    "question": "What currency does the country with the most time zones use?",
+    "gold_answer": "euro",
+    "context": [
+      {
+        "title": "France",
+        "text": "France has the most time zones of any country, with 12 zones due to its overseas territories."
+      },
+      {
+        "title": "France",
+        "text": "The currency of France is the euro."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the ancient city of Petra is located?",
+    "gold_answer": "Amman",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an archaeological site in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "The capital of Jordan is Amman."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "What is the largest bird in the world?",
+    "gold_answer": "ostrich",
+    "context": [
+      {
+        "title": "Ostrich",
+        "text": "The ostrich is the largest living bird, native to Africa."
+      },
+      {
+        "title": "Bird",
+        "text": "Birds are feathered dinosaurs."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "medium",
+    "question": "What is the official language of the country where the Hagia Sophia is located?",
+    "gold_answer": "Turkish",
+    "context": [
+      {
+        "title": "Hagia Sophia",
+        "text": "Hagia Sophia is a historical landmark in Istanbul, Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "The official language of Turkey is Turkish."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "hard",
+    "question": "What is the primary export of the country where the Suez Canal is located?",
+    "gold_answer": "petroleum",
+    "context": [
+      {
+        "title": "Suez Canal",
+        "text": "The Suez Canal is in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Petroleum is a primary export of Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "easy",
+    "question": "What is the capital of Brazil?",
+    "gold_answer": "Brasilia",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "Brazil is the largest country in South America."
+      },
+      {
+        "title": "Brasilia",
+        "text": "Brasilia is the capital of Brazil."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where Mount Fuji is located?",
+    "gold_answer": "Japanese",
+    "context": [
+      {
+        "title": "Mount Fuji",
+        "text": "Mount Fuji is the highest peak in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "The official language of Japan is Japanese."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where Angkor Wat is located?",
+    "gold_answer": "riel",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "The currency of Cambodia is the riel."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "easy",
+    "question": "What is the longest river in the world?",
+    "gold_answer": "Nile",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile River is often considered the longest river in the world."
+      },
+      {
+        "title": "Africa",
+        "text": "The Nile flows through northeastern Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Acropolis is located?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Acropolis",
+        "text": "The Acropolis is an ancient citadel in Athens."
+      },
+      {
+        "title": "Greece",
+        "text": "Athens is the capital of Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "hard",
+    "question": "What is the dominant religion in the country where Borobudur is located?",
+    "gold_answer": "Islam",
+    "context": [
+      {
+        "title": "Borobudur",
+        "text": "Borobudur is a Buddhist temple in Central Java, Indonesia."
+      },
+      {
+        "title": "Indonesia",
+        "text": "Islam is the dominant religion in Indonesia."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "easy",
+    "question": "What is the capital of Mexico?",
+    "gold_answer": "Mexico City",
+    "context": [
+      {
+        "title": "Mexico",
+        "text": "Mexico is a country in North America."
+      },
+      {
+        "title": "Mexico City",
+        "text": "Mexico City is the capital of Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "medium",
+    "question": "What ocean is the Galapagos Islands located in?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Galapagos Islands",
+        "text": "The Galapagos Islands are an archipelago in the Pacific Ocean."
+      },
+      {
+        "title": "Ecuador",
+        "text": "The Galapagos Islands are part of Ecuador."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Terracotta Army is located?",
+    "gold_answer": "Xi'an",
+    "context": [
+      {
+        "title": "Terracotta Army",
+        "text": "The Terracotta Army is located near Xi'an, China."
+      },
+      {
+        "title": "China",
+        "text": "Xi'an is a major city in China, but the national capital is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "easy",
+    "question": "What is the largest continent?",
+    "gold_answer": "Asia",
+    "context": [
+      {
+        "title": "Asia",
+        "text": "Asia is the largest and most populous continent."
+      },
+      {
+        "title": "World",
+        "text": "The world has seven continents."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "medium",
+    "question": "What is the primary language of the country where the Eiffel Tower is located?",
+    "gold_answer": "French",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is in Paris, France."
+      },
+      {
+        "title": "France",
+        "text": "The official language of France is French."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Taj Mahal is located?",
+    "gold_answer": "rupee",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is in Agra, India."
+      },
+      {
+        "title": "India",
+        "text": "The currency of India is the Indian rupee."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "easy",
+    "question": "What is the capital of India?",
+    "gold_answer": "New Delhi",
+    "context": [
+      {
+        "title": "India",
+        "text": "India is a country in South Asia."
+      },
+      {
+        "title": "New Delhi",
+        "text": "New Delhi is the capital of India."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Tower of London is located?",
+    "gold_answer": "English",
+    "context": [
+      {
+        "title": "Tower of London",
+        "text": "The Tower of London is a historic castle in London, England."
+      },
+      {
+        "title": "England",
+        "text": "English is the primary language of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where the Shwedagon Pagoda is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Shwedagon Pagoda",
+        "text": "The Shwedagon Pagoda is in Yangon, Myanmar."
+      },
+      {
+        "title": "Myanmar",
+        "text": "Buddhism is practiced by about 88% of the population in Myanmar."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "easy",
+    "question": "What is the largest mammal?",
+    "gold_answer": "blue whale",
+    "context": [
+      {
+        "title": "Blue whale",
+        "text": "The blue whale is the largest mammal and the largest animal ever known."
+      },
+      {
+        "title": "Mammal",
+        "text": "Mammals are warm-blooded vertebrates."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Leaning Tower of Pisa is located?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Leaning Tower of Pisa",
+        "text": "The Leaning Tower of Pisa is in Pisa, Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "The capital of Italy is Rome."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Colosseum is located?",
+    "gold_answer": "euro",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is in Rome, Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy uses the euro as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "easy",
+    "question": "What is the capital of Egypt?",
+    "gold_answer": "Cairo",
+    "context": [
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country in North Africa."
+      },
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital of Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Christ the Redeemer statue is located?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Christ the Redeemer",
+        "text": "Christ the Redeemer is in Rio de Janeiro, Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "The primary language of Brazil is Portuguese."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where the Temple of the Emerald Buddha is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Emerald Buddha",
+        "text": "The Temple of the Emerald Buddha is in Bangkok, Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Buddhism is the primary religion in Thailand, practiced by about 93% of the population."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "easy",
+    "question": "What is the largest ocean?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean is the largest ocean on Earth."
+      },
+      {
+        "title": "Earth",
+        "text": "Earth has five oceans."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Great Wall is located?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Great Wall",
+        "text": "The Great Wall of China stretches across northern China."
+      },
+      {
+        "title": "China",
+        "text": "The capital of China is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "hp101",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Moai statues are located?",
+    "gold_answer": "Chilean peso",
+    "context": [
+      {
+        "title": "Moai",
+        "text": "The Moai are monolithic statues on Easter Island, Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "The currency of Chile is the Chilean peso."
+      }
+    ]
+  },
+  {
+    "qid": "hp102",
+    "difficulty": "easy",
+    "question": "What is the capital of South Africa?",
+    "gold_answer": "Pretoria",
+    "context": [
+      {
+        "title": "South Africa",
+        "text": "South Africa has three capitals."
+      },
+      {
+        "title": "Pretoria",
+        "text": "Pretoria is the administrative capital of South Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp103",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where Chichen Itza is located?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "Chichen Itza is an ancient Maya city in Yucatan, Mexico."
+      },
+      {
+        "title": "Mexico",
+        "text": "Spanish is the official language of Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp104",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Suez Canal is located?",
+    "gold_answer": "Cairo",
+    "context": [
+      {
+        "title": "Suez Canal",
+        "text": "The Suez Canal is in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "The capital of Egypt is Cairo."
+      }
+    ]
+  },
+  {
+    "qid": "hp105",
+    "difficulty": "easy",
+    "question": "What is the largest island in the world?",
+    "gold_answer": "Greenland",
+    "context": [
+      {
+        "title": "Greenland",
+        "text": "Greenland is the world's largest island."
+      },
+      {
+        "title": "Arctic",
+        "text": "Greenland is located in the Arctic region."
+      }
+    ]
+  },
+  {
+    "qid": "hp106",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Petronas Towers are located?",
+    "gold_answer": "Kuala Lumpur",
+    "context": [
+      {
+        "title": "Petronas Towers",
+        "text": "The Petronas Towers are skyscrapers in Kuala Lumpur, Malaysia."
+      },
+      {
+        "title": "Malaysia",
+        "text": "Kuala Lumpur is the capital of Malaysia."
+      }
+    ]
+  },
+  {
+    "qid": "hp107",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where the Temple of the Emerald Buddha is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Emerald Buddha",
+        "text": "The Temple of the Emerald Buddha is in Bangkok, Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Theravada Buddhism is the primary religion of Thailand."
+      }
+    ]
+  },
+  {
+    "qid": "hp108",
+    "difficulty": "easy",
+    "question": "What is the capital of Turkey?",
+    "gold_answer": "Ankara",
+    "context": [
+      {
+        "title": "Turkey",
+        "text": "Turkey is a transcontinental country."
+      },
+      {
+        "title": "Ankara",
+        "text": "Ankara is the capital of Turkey."
+      }
+    ]
+  },
+  {
+    "qid": "hp109",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where Mount Kilimanjaro is located?",
+    "gold_answer": "Swahili",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is in Tanzania."
+      },
+      {
+        "title": "Tanzania",
+        "text": "Swahili is the official language of Tanzania."
+      }
+    ]
+  },
+  {
+    "qid": "hp110",
+    "difficulty": "hard",
+    "question": "What is the currency of the country where the Inca Trail is located?",
+    "gold_answer": "sol",
+    "context": [
+      {
+        "title": "Inca Trail",
+        "text": "The Inca Trail is in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The currency of Peru is the sol."
+      }
+    ]
+  },
+  {
+    "qid": "hp111",
+    "difficulty": "easy",
+    "question": "What is the capital of Thailand?",
+    "gold_answer": "Bangkok",
+    "context": [
+      {
+        "title": "Thailand",
+        "text": "Thailand is a country in Southeast Asia."
+      },
+      {
+        "title": "Bangkok",
+        "text": "Bangkok is the capital of Thailand."
+      }
+    ]
+  },
+  {
+    "qid": "hp112",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where the Christ the Redeemer statue is located?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Christ the Redeemer",
+        "text": "Christ the Redeemer is in Rio de Janeiro, Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "The primary language of Brazil is Portuguese."
+      }
+    ]
+  },
+  {
+    "qid": "hp113",
+    "difficulty": "hard",
+    "question": "What is the primary religion of the country where Angkor Wat is located?",
+    "gold_answer": "Buddhism",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is in Siem Reap, Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Buddhism is the state religion of Cambodia, practiced by about 95% of the population."
+      }
+    ]
+  },
+  {
+    "qid": "hp114",
+    "difficulty": "easy",
+    "question": "What is the capital of Argentina?",
+    "gold_answer": "Buenos Aires",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "Argentina is the second-largest country in South America."
+      },
+      {
+        "title": "Buenos Aires",
+        "text": "Buenos Aires is the capital of Argentina."
+      }
+    ]
+  },
+  {
+    "qid": "hp115",
+    "difficulty": "medium",
+    "question": "What ocean does the Mekong River flow into?",
+    "gold_answer": "South China Sea",
+    "context": [
+      {
+        "title": "Mekong River",
+        "text": "The Mekong River flows through Southeast Asia."
+      },
+      {
+        "title": "South China Sea",
+        "text": "The Mekong River empties into the South China Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp116",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Bagan temples are located?",
+    "gold_answer": "Naypyidaw",
+    "context": [
+      {
+        "title": "Bagan",
+        "text": "Bagan is an ancient city in Myanmar."
+      },
+      {
+        "title": "Myanmar",
+        "text": "The capital of Myanmar is Naypyidaw."
+      }
+    ]
+  },
+  {
+    "qid": "hp117",
+    "difficulty": "easy",
+    "question": "What is the largest lake in the world by surface area?",
+    "gold_answer": "Caspian Sea",
+    "context": [
+      {
+        "title": "Caspian Sea",
+        "text": "The Caspian Sea is the largest enclosed inland body of water by area."
+      },
+      {
+        "title": "Asia",
+        "text": "The Caspian Sea is located between Europe and Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp118",
+    "difficulty": "medium",
+    "question": "What language is spoken in the country where Sigiriya is located?",
+    "gold_answer": "Sinhala",
+    "context": [
+      {
+        "title": "Sigiriya",
+        "text": "Sigiriya is a rock fortress in Sri Lanka."
+      },
+      {
+        "title": "Sri Lanka",
+        "text": "Sinhala is one of the official languages of Sri Lanka."
+      }
+    ]
+  },
+  {
+    "qid": "hp119",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Karnak Temple is located?",
+    "gold_answer": "Luxor",
+    "context": [
+      {
+        "title": "Karnak",
+        "text": "The Karnak Temple complex is in Luxor, Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Luxor is a city in Egypt, but the capital is Cairo."
+      }
+    ]
+  },
+  {
+    "qid": "hp120",
+    "difficulty": "easy",
+    "question": "What is the capital of China?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "China",
+        "text": "China is the most populous country in the world."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is the capital of China."
+      }
+    ]
+  }
+]
