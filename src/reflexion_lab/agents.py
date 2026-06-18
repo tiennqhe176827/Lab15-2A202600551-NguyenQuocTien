@@ -2,7 +2,7 @@ from __future__ import annotations
 import time
 from dataclasses import dataclass
 from typing import Literal
-from .mock_runtime import FAILURE_MODE_BY_QID, actor_answer, evaluator, reflector
+from .mock_runtime import FAILURE_MODE_BY_QID, actor_answer, evaluator, reflector, last_tokens
 from .schemas import AttemptTrace, QAExample, ReflectionEntry, RunRecord
 
 @dataclass
@@ -21,7 +21,7 @@ class BaseAgent:
             t_actor = time.perf_counter()
             judge = evaluator(example, answer)
             t_eval = time.perf_counter()
-            token_estimate = len(answer.split()) + len(example.question.split()) + sum(len(c.text.split()) for c in example.context)
+            token_estimate = last_tokens["total"]
             latency_ms = int((t_eval - t_start) * 1000)
             trace = AttemptTrace(attempt_id=attempt_id, answer=answer, score=judge.score, reason=judge.reason, token_estimate=token_estimate, latency_ms=latency_ms)
             final_answer = answer
